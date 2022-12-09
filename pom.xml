@@ -17,6 +17,12 @@
         <version>2.4.5</version>
         <relativePath/>
     </parent>
+         <properties>
+  <sonar.organization>surya-tirupathi</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+                  <sonar.productkey>Tirupathi</sonar.productkey>
+         <sonar.login>4e6a076644cfc1217521b693b5d2d745b5f7fc05</sonar.login>
+</properties>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
